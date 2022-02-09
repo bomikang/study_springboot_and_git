@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-StudySpringbootAndGitApplication<study_springboot_and_git>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.bomi.study_springboot_and_git.StudySpringbootAndGitApplication",
+            "projectName": "study_springboot_and_git",
+            "args": ""
+        }
+    ]
+}
