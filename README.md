@@ -6,3 +6,6 @@
 <프로젝트 초기 설정>
 - application.properties => application.yml으로 변경
 - jdk 12 설정
+
+<주의사항>
+- 회사 컴퓨터로 시도하지 말기ㅎ..ㅎ..
